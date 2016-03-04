@@ -1,0 +1,28 @@
+name: AfqarStudio
+favicon: null
+layout_spectrum: 0.28874594043008983
+typography_spectrum: 0.3595956349745393
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8434241376817226
+  lightness: 0.8098893640562892
+  saturation: 0.0899596638046205
+  rhythmicContrast: 0.8924335222691298
+purpose: []
